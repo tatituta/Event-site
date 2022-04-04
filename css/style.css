@@ -350,12 +350,12 @@ main{
 
     }
       
-    .panel > *:nth-child(2) { transform: translateY(-50%); }
+    .panel > *:nth-child(2) { transform: translateY(600%); }
     .panel.open-active > *:nth-child(2) { transform: translateY(0%); }
     .panel p:nth-child(3) {
         font-size: 1.5em;
       }
-    .panel > *:first-child { transform: translateY(100%); }
+    .panel > *:first-child { transform: translateY(-700%); }
     .panel.open-active > *:first-child { transform: translateY(0%); }
     .panels{
         display: flex;
