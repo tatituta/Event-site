@@ -244,6 +244,7 @@ main{
     justify-content: center;
     display: flex;
     flex-direction: column;
+    width:20%;
   }
 
   .panel1 { background-image:url(../pics/wed1.webp); }
@@ -358,5 +359,17 @@ main{
     .hoverbox{
         display:none;
     }
+      .media {
+width:100%;
+display: flex;
+justify-content: center;
+}
+.media ul{
+    max-width: 922px;
+    width:100%;
+}
+.media ul li{
+    width:20%;
+}
     
   }
