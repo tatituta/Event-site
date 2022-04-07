@@ -275,7 +275,6 @@ justify-content: center;
     justify-content: center;
     display: flex;
     flex-direction: column;
-    width:20%;
   }
 
   .panel1 { background-image:url(../pics/wed1.webp); }
