@@ -151,6 +151,19 @@ border-radius: 10px;
     margin:60px 0;
 }
 
+ .media {
+width:100%;
+display: flex;
+justify-content: center;
+}
+.media ul{
+    max-width: 922px;
+    width:100%;
+}
+.media ul li{
+    width:20%;
+}
+
 
 .box .imgBx{
     position: absolute;
