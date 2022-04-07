@@ -235,6 +235,18 @@ main{
     display: flex;
     flex-direction: column;
 }
+ .media {
+width:100%;
+display: flex;
+justify-content: center;
+}
+.media ul{
+    max-width: 922px;
+    width:100%;
+}
+.media ul li{
+    width:20%;
+}
 .panels {
     min-height: 90vh;
     min-width: 70vh;
@@ -378,17 +390,6 @@ main{
     .hoverbox{
         display:none;
     }
-      .media {
-width:100%;
-display: flex;
-justify-content: center;
-}
-.media ul{
-    max-width: 922px;
-    width:100%;
-}
-.media ul li{
-    width:20%;
-}
+     
     
   }
